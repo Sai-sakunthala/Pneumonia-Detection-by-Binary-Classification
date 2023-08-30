@@ -1,7 +1,7 @@
 # Pneumonia-Detection-by-Binary-Classification
 The codes for annealing methods are provided here in the '.ipynb' format
 
-The code can be directly copied and run in google colab. Downloading of data is not required. Instead get the unique 'kaggle.json' file for your account from Kaggle website. The data is directly taken from kaggle using your account 'kaggle.json' file
+The code can be directly copied and run in google colab. Downloading of data is not required. Instead get the unique 'kaggle.json' file for your account from Kaggle website. The data is directly taken from kaggle using the account specific 'kaggle.json' file
 
 The code 'Simulated_ann_final.ipynb' is the code for implementing binary classification using simulated annealing using D-Wave neal package
 
